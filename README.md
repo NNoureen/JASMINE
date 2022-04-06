@@ -15,7 +15,7 @@ Single cell RNAseq Signature scoring (JASMINE is an R script which could be used
 
 ############# How to Call JASMINE Function ###########
 
-## data = Input data
+### data = Input data
 ### genes = List of gene symbols for which scores have to be calculated
 ### method = Enter the method for computing the enrichment. Method could be either 'oddsratio' or 'likelihood'
 
