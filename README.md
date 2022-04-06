@@ -4,8 +4,7 @@ Single cell RNAseq Signature scoring (JASMINE is an R script which could be used
 ####                 1. A single cell RNAseq data matrix, where rows correspond to gene symbols and columns correspond to cells
 ####                 2. A vector of marker genes(symbols) reflecting a biological process for scoring
 
-####   Output of JASMINE :-
-######                Single Cells with corresponding scores for biological process.
+####   Output of JASMINE :-  Single Cell IDs with corresponding scores for biological process.
 
 
 ###     Authors:-  Nighat Noureen and Siyuan Zheng
